@@ -1,8 +1,8 @@
-Small financial application it asks how much money you have and how many days until your paycheck, using this data it can:
+Small financial application, it asks how much money you have and how many days until your paycheck, using this data it can:
 
-    Convert your savings to another currency
-    Get financial advice
-    Add your expenses
-    Show weekly expenses
-    Show the largest expense of the week
+1. Convert your savings to another currency
+2. Get financial advice
+3. Add your expenses
+4. Show weekly expenses
+5. Show the largest expense of the week
 
